@@ -26,7 +26,7 @@ Se recomienda ejecutar el proyecto dentro de un entorno virtual para no instalar
 1. Clona el repositorio:
 
 ```bash
-git clone [https://github.com/jvasquezdev/portafolio-backend-python.git](https://github.com/jvasquezdev/portafolio-backend-python.git)
+git clone https://github.com/jvasquezdev/portafolio-backend-python.git
 cd portafolio-backend-python
 ```
 
